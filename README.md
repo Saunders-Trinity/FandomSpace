@@ -1,5 +1,6 @@
 # FandomSpace
 Fandom Space is an in progress app to being people in fandoms together to share content, write media and discuss lore of their favorite people and characters.
+This project is currently a work in progress.
 
 # Front End
 FrameWork - Next.js React
